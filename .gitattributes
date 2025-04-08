@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+hybris/hybris/data/hsqldb/mydb.data filter=lfs diff=lfs merge=lfs -text
+hybris/installer/libs/gradle-api-5.2.1.jar filter=lfs diff=lfs merge=lfs -text
