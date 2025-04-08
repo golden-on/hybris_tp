@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testclasses><cissapdigitalpayment><testclass>de.hybris.platform.cissapdigitalpayment.facade.impl.DefaultCisSapDigitalPaymentFacadeTest</testclass><testclass>de.hybris.platform.cissapdigitalpayment.facade.impl.DefaultSapDigitalPaymentAcceleratorCheckoutFacadeTest</testclass></cissapdigitalpayment></testclasses>

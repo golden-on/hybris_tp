@@ -1,0 +1,14 @@
+$siteUid=apparel-uk
+$supportedUiExperienceLevels=
+$storeUid=apparel-uk
+$channel=b2c
+$solrIndexedType=apparel-ukProductType
+$addonExtensionName=xyformsstorefrontcommons
+$contentCatalog=apparel-ukContentCatalog
+$configExtensionName=xyformsstorefrontcommons
+$productCatalog=apparelProductCatalog
+# ---------------------------------------------------------------------------
+# Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved.
+# ---------------------------------------------------------------------------
+
+# -----------------------------------------------------------------------

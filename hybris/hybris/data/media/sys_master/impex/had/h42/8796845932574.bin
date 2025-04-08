@@ -1,0 +1,22 @@
+$siteUid=apparel-uk
+$supportedUiExperienceLevels=
+$storeUid=apparel-uk
+$channel=b2c
+$solrIndexedType=apparel-ukProductType
+$addonExtensionName=xyformsstorefrontcommons
+$contentCatalog=apparel-ukContentCatalog
+$configExtensionName=xyformsstorefrontcommons
+$productCatalog=apparelProductCatalog
+# ---------------------------------------------------------------------------
+# Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved.
+# ---------------------------------------------------------------------------
+
+######
+## PARAMETERS REQUIRED FOR THIS SCRIPT
+##
+##   * contentCatalog   - content catalog id
+##   * addonExtensionName - extension name of the ui addon
+#######
+
+$contentCV=catalogVersion(CatalogVersion.catalog(Catalog.id[default=$contentCatalog]),CatalogVersion.version[default=Staged])[default=$contentCatalog:Staged]
+$jarResourceCmsCockpit=jar:de.hybris.platform.xyformsstorefrontcommons.constants.XyformsstorefrontcommonsConstants&/xyformsstorefrontcommons/import/cockpit/cmscockpit

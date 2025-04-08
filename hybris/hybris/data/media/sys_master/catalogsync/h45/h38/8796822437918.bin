@@ -1,0 +1,133 @@
+#------------------------------------------------
+#Schedules for root type 'Category'
+#------------------------------------------------
+#file: '8796124479989_Category_remove_3077293704922519717.csv'
+#file: '8796124479989_Category_create_17631275916146991677.csv'
+#file: '8796124479989_Category_update_13396270140306342799.csv'
+#file: '8796124479989_Category_connect_15538274243420828956.csv'
+#------------------------------------------------
+#Schedules for root type 'Product'
+#------------------------------------------------
+#file: '8796124479989_Product_remove_4535611952344551139.csv'
+#file: '8796124479989_Product_create_14061572539143005282.csv'
+#file: '8796124479989_Product_update_3498711056080568393.csv'
+#file: '8796124479989_Product_connect_18017150305895427574.csv'
+#------------------------------------------------
+#Schedules for root type 'Media'
+#------------------------------------------------
+#file: '8796124479989_Media_remove_1356983226373563621.csv'
+#file: '8796124479989_Media_create_10535464355187206177.csv'
+#file: '8796124479989_Media_update_3559734948034660659.csv'
+#file: '8796124479989_Media_connect_8041873790524033300.csv'
+#------------------------------------------------
+#Schedules for root type 'Keyword'
+#------------------------------------------------
+#file: '8796124479989_Keyword_remove_8550286304065321899.csv'
+#file: '8796124479989_Keyword_create_1024439188486457399.csv'
+#file: '8796124479989_Keyword_update_15748203130010484819.csv'
+#file: '8796124479989_Keyword_connect_1195752871166519756.csv'
+#------------------------------------------------
+#Schedules for root type 'TaxRow'
+#------------------------------------------------
+#file: '8796124479989_TaxRow_remove_7188072120615488343.csv'
+#file: '8796124479989_TaxRow_create_610533040421723998.csv'
+#file: '8796124479989_TaxRow_update_14138887667795186694.csv'
+#file: '8796124479989_TaxRow_connect_16093495001294981037.csv'
+#------------------------------------------------
+#Schedules for root type 'PriceRow'
+#------------------------------------------------
+#file: '8796124479989_PriceRow_remove_813135277517955446.csv'
+#file: '8796124479989_PriceRow_create_16217068947151778463.csv'
+#file: '8796124479989_PriceRow_update_15148450309981107975.csv'
+#file: '8796124479989_PriceRow_connect_2673856955823071049.csv'
+#------------------------------------------------
+#Schedules for root type 'DiscountRow'
+#------------------------------------------------
+#file: '8796124479989_DiscountRow_remove_4549364881022691655.csv'
+#file: '8796124479989_DiscountRow_create_7547463264622030569.csv'
+#file: '8796124479989_DiscountRow_update_15027994027756664977.csv'
+#file: '8796124479989_DiscountRow_connect_7743492644680276806.csv'
+#------------------------------------------------
+#Schedules for root type 'MediaContainer'
+#------------------------------------------------
+#file: '8796124479989_MediaContainer_remove_16908386807327953377.csv'
+#file: '8796124479989_MediaContainer_create_3520503966177817300.csv'
+#file: '8796124479989_MediaContainer_update_17129006091827596222.csv'
+#file: '8796124479989_MediaContainer_connect_8484875138838921159.csv'
+#------------------------------------------------
+#Schedules for root type 'AbstractAsSearchProfile'
+#------------------------------------------------
+#file: '8796124479989_AbstractAsSearchProfile_remove_12121199177537155019.csv'
+#file: '8796124479989_AbstractAsSearchProfile_create_169150349094736553.csv'
+#file: '8796124479989_AbstractAsSearchProfile_update_2843191601871062487.csv'
+#file: '8796124479989_AbstractAsSearchProfile_connect_3704157813164760159.csv'
+#------------------------------------------------
+#Schedules for root type 'AbstractAsSearchConfiguration'
+#------------------------------------------------
+#file: '8796124479989_AbstractAsSearchConfiguration_remove_7762950534721593490.csv'
+#file: '8796124479989_AbstractAsSearchConfiguration_create_16013547265872719676.csv'
+#file: '8796124479989_AbstractAsSearchConfiguration_update_15919340343182288289.csv'
+#file: '8796124479989_AbstractAsSearchConfiguration_connect_16946841378679224081.csv'
+#------------------------------------------------
+#Schedules for root type 'AbstractAsItemConfiguration'
+#------------------------------------------------
+#file: '8796124479989_AbstractAsItemConfiguration_remove_7196426112313758789.csv'
+#file: '8796124479989_AbstractAsItemConfiguration_create_10786675785937197485.csv'
+#file: '8796124479989_AbstractAsItemConfiguration_update_1547108897278057093.csv'
+#file: '8796124479989_AbstractAsItemConfiguration_connect_4153159047439221488.csv'
+#------------------------------------------------
+#Schedules for root type 'AsSearchProfileActivationSet'
+#------------------------------------------------
+#file: '8796124479989_AsSearchProfileActivationSet_remove_7040424751665822161.csv'
+#file: '8796124479989_AsSearchProfileActivationSet_create_7114669452307056573.csv'
+#file: '8796124479989_AsSearchProfileActivationSet_update_8526443947656284217.csv'
+#file: '8796124479989_AsSearchProfileActivationSet_connect_5080256728332536471.csv'
+#------------------------------------------------
+#Schedules for root type 'CMSItem'
+#------------------------------------------------
+#file: '8796124479989_CMSItem_remove_15995689686820439914.csv'
+#file: '8796124479989_CMSItem_create_10182488244642520608.csv'
+#file: '8796124479989_CMSItem_update_8675395275446633227.csv'
+#file: '8796124479989_CMSItem_connect_365911265900992548.csv'
+#------------------------------------------------
+#Schedules for root type 'CMSRelation'
+#------------------------------------------------
+#file: '8796124479989_CMSRelation_remove_5982468046055544563.csv'
+#file: '8796124479989_CMSRelation_create_4207807840422919797.csv'
+#file: '8796124479989_CMSRelation_update_10869410303041324225.csv'
+#file: '8796124479989_CMSRelation_connect_15455613193549184289.csv'
+#------------------------------------------------
+#Schedules for root type 'CxCustomizationsGroup'
+#------------------------------------------------
+#file: '8796124479989_CxCustomizationsGroup_remove_12586030793361878621.csv'
+#file: '8796124479989_CxCustomizationsGroup_create_12799078734840443072.csv'
+#file: '8796124479989_CxCustomizationsGroup_update_1727969825668861850.csv'
+#file: '8796124479989_CxCustomizationsGroup_connect_15574968788390150942.csv'
+#------------------------------------------------
+#Schedules for root type 'CxCustomization'
+#------------------------------------------------
+#file: '8796124479989_CxCustomization_remove_2787035244861980500.csv'
+#file: '8796124479989_CxCustomization_create_1930951175258636937.csv'
+#file: '8796124479989_CxCustomization_update_8179224877770770007.csv'
+#file: '8796124479989_CxCustomization_connect_3037539051526398399.csv'
+#------------------------------------------------
+#Schedules for root type 'CxVariation'
+#------------------------------------------------
+#file: '8796124479989_CxVariation_remove_11501747552449151437.csv'
+#file: '8796124479989_CxVariation_create_15303328621502896658.csv'
+#file: '8796124479989_CxVariation_update_1929928020590585898.csv'
+#file: '8796124479989_CxVariation_connect_14324717561393559830.csv'
+#------------------------------------------------
+#Schedules for root type 'CxAbstractTrigger'
+#------------------------------------------------
+#file: '8796124479989_CxAbstractTrigger_remove_2614405948013222116.csv'
+#file: '8796124479989_CxAbstractTrigger_create_5462976581559438175.csv'
+#file: '8796124479989_CxAbstractTrigger_update_6365005423094943107.csv'
+#file: '8796124479989_CxAbstractTrigger_connect_14806879286347418316.csv'
+#------------------------------------------------
+#Schedules for root type 'CxAbstractAction'
+#------------------------------------------------
+#file: '8796124479989_CxAbstractAction_remove_12833256457602346872.csv'
+#file: '8796124479989_CxAbstractAction_create_6059998068280388966.csv'
+#file: '8796124479989_CxAbstractAction_update_1628209730873946705.csv'
+#file: '8796124479989_CxAbstractAction_connect_8764840884304253403.csv'

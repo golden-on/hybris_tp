@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e8896f10-eb14-41cf-9d0c-50c7d7611e72" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="ImpEx File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="NamedScopeManager">
+    <scope name="[y] Custom" pattern="file[Custom*]:*//*" />
+    <scope name="[y] Custom items.xml Files" pattern="file[Custom*]:*//*-items.xml" />
+    <scope name="[y] Custom items.xml, beans.xml and ImpEx files" pattern="file[Custom*]:*//*-items.xml||file[Custom*]:*//*-beans.xml||file[Custom*]:*//*.impex" />
+    <scope name="[y] Platform" pattern="file[Platform*]:*//*" />
+    <scope name="[y] Hybris" pattern="file[Hybris*]:*//*" />
+    <scope name="[y] Platform &amp; Hybris" pattern="file[Platform*]:*//*||file[Hybris*]:*//*" />
+    <scope name="[y] All items.xml Files" pattern="file:*//*-items.xml" />
+    <scope name="[y] All beans.xml Files" pattern="file:*//*-beans.xml" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;5b677aae&quot;
+}</component>
+  <component name="ProjectId" id="2vDthwtUS7cElxPCEWLNrRlqFga" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.afterHybrisProjectImport&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.sapCX_showWhatsNew_2024.3.6&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\hybris\hybris\bin\custom\trainingcore\resources\groovy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="SAP CX Start.Local SAP CX Server">
+    <configuration default="true" type="AntRunConfiguration">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.59" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.59" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringGeneralSettings">
+    <option name="showMultipleContextsPanel" value="false" />
+    <option name="showProfilesPanel" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8896f10-eb14-41cf-9d0c-50c7d7611e72" name="Changes" comment="" />
+      <created>1743691633045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743691633045</updated>
+      <workItem from="1743691645956" duration="3452000" />
+      <workItem from="1743695165939" duration="8632000" />
+      <workItem from="1743761748888" duration="22412000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/bin/modules/smartedit/cmssmartedit/web/features/cmscommons/services/componentService.js" />
+      </list>
+    </option>
+    <option name="additionalRoots">
+      <list>
+        <option value="$PROJECT_DIR$/bin/modules/smartedit/smartedit/smartedit-build/@types/smartedit" />
+        <option value="$PROJECT_DIR$/bin/modules/smartedit/smartedit/smartedit-build/@types/smarteditcontainer" />
+      </list>
+    </option>
+  </component>
+</project>

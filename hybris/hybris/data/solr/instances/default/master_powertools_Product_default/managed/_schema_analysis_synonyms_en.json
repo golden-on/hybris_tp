@@ -1,0 +1,7 @@
+{
+  "initArgs":{"ignoreCase":"true"},
+  "initializedOn":"2025-04-07T10:02:29.426Z",
+  "updatedSinceInit":"2025-04-07T10:06:16.079Z",
+  "managedMap":{
+    "battery":["coordless"],
+    "bosch hammer":["PSB"]}}
